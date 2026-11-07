@@ -2,7 +2,7 @@
 
 The bridge between your Android and your Mac.
 
-Website: https://altairco-studio.github.io/macmatrix/
+Website: https://altairco-studio.github.io/MacMatrix/
 
 ## Download
 
